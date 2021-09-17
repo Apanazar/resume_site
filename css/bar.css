@@ -1,0 +1,27 @@
+.rect {
+    width: 20px;
+    height: 20px;
+    border-radius: 20px;
+    display: inline-block;
+    margin-left: 10px;
+    margin-top: 7px;
+    border: 2px solid #3C17BC;
+}
+
+.rect.green {
+    background-color: #B3C7FF;
+}
+
+.rect.yellow {
+    background-color: #FECDE9;
+}
+
+.rect.red {
+    background-color: #FC91E3;
+}
+
+.bar {
+    background-color: #F6A8F3;
+    border-top-left-radius: 17px;
+    border-top-right-radius: 17px;
+}

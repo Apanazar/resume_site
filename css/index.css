@@ -1,0 +1,24 @@
+body {
+    background-image: url("https://raw.githubusercontent.com/Apanazar/stuprum/master/background.png ");
+    color: #271d4b;
+    font-family: Kosko, 'Kosko';
+}
+
+@font-face {
+    font-family: Kosko;
+    src: local(kosko), url(font/Kosko.ttf);
+}
+
+.text {
+    text-align: left;
+    margin-left: 30px;
+    margin-right: 20px;
+    margin-top: 40px;
+    font-size: 25px;
+}
+
+.line {
+    width: auto;
+    border: 2px #3C17BC solid;
+    margin: 0px;
+}
